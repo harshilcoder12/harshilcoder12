@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @harshilcoder12
-- 👀 I’m interested in Aritificial Intelligence
+- 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently learning Computer Science using ossu 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me..
